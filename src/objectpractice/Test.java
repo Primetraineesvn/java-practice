@@ -1,6 +1,10 @@
 package objectpractice;
 
+import variables.InstanceVaraibale;
+
 public class Test {
+
+
 
     public static void main(String[] args) {
         //object creation
@@ -10,6 +14,10 @@ public class Test {
         Test test = new Test();
         // class name is MyClass
         //MyClass m = new MyClass();
+
+        InstanceVaraibale x = new InstanceVaraibale();
+        x.demo1();
+
 
 
     }

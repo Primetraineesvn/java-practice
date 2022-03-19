@@ -24,5 +24,6 @@ public class NoReturnTypeNoParameters {
         System.out.println(answer);
     }
 
+//create 5 methods for practice and for build up your confidence
 
 }

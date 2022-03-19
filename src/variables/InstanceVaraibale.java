@@ -5,6 +5,25 @@ public class InstanceVaraibale {
     String name = "Prime Testing"; //Instance variable
     static int b = 200;//static variable
 
+     private int x = 10;
+
+         final static  int MIN_NUM =10; //constant variable
+
+     //private method
+     private void demo(){
+
+     }
+
+     //public method
+     public void demo1(){
+
+     }
+
+     //default
+     void demo2(){
+
+     }
+
     //Instance variable - variables which are declared in the class but outside the method or outside the constructor is
     //called ----
 
